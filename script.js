@@ -20,7 +20,6 @@ function generateRandomNumber() {
 
     // Add the new number to the usedNumbers list
     usedNumbers[SelectedValue].push(randomNumber);
-    print(usedNumbers[SelectedValue]);
     // Display the generated number
     // document.getElementById('random-number').src = call_image(randomNumber).then(function (res) {
     //     return res.text();
