@@ -1,6 +1,6 @@
 let usedNumbers = {'BIOLÓGICO': [], 'FÍSICO': [], 'QUÍMICO': [], 'ERGONÔMICO': [], 'ACIDENTE': []};
 // const maxNumbers = 5;
-const has_tab = {'BIOLÓGICO': 61, 'FÍSICO': 19, 'QUÍMICO': 20, 'ERGONÔMICO': 12, 'ACIDENTE': 28};
+const has_tab = {'BIOLÓGICO': 61, 'FÍSICO': 19, 'QUÍMICO': 20, 'ERGONÔMICO': 16, 'ACIDENTE': 27};
 const selectOption = document.getElementById('mySelect');
 
 
