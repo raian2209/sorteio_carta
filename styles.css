@@ -48,6 +48,6 @@ button:hover {
 }
 
 .card{
-        width: calc(30% - 10px);
-        height: calc(30% - 10px);
+        width: calc(45% - 10px);
+        height: calc(45% - 10px);
 }
