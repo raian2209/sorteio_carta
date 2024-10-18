@@ -23,7 +23,6 @@ body {
 
 h1 {
     font-size: 24px;
-    margin-bottom: 20px;
 }
 
 #random-number {
@@ -48,6 +47,6 @@ button:hover {
 }
 
 .card{
-        width: calc(75% - 10px);
-        height: calc(75% - 10px);
+        width: calc(82% - 10px);
+        height: calc(82% - 10px);
 }
