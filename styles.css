@@ -47,6 +47,6 @@ button:hover {
 }
 
 .card{
-        width: calc(82% - 10px);
-        height: calc(82% - 10px);
+        width: calc(90% - 10px);
+        height: calc(90% - 10px);
 }
