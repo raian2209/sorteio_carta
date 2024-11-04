@@ -50,3 +50,9 @@ button:hover {
         width: calc(90% - 10px);
         height: calc(90% - 10px);
 }
+
+.logo{
+    width: 100px;
+    height: 100px;
+   
+}
